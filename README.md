@@ -1,0 +1,2 @@
+# gecode
+gerador de cofigos
